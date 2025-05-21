@@ -1,0 +1,6 @@
+*
+!.gitignore
+!framework/
+!redox_w/
+!framework/*
+!redox_w/*
